@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Ebube17-0k
+- 👀 I’m interested in learning new things in the tech world
+- 🌱 I’m currently learning html,css and javascript languages
+- 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Ebube17-0k/Ebube17-0k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
